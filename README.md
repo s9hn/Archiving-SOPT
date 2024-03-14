@@ -41,6 +41,7 @@
 |**클론 코딩(합동 세미나)**| [29cm](https://github.com/SOPT-30th-Joint-Seminar-15/Client-Android)|
 |**솝커톤**| [별이삼샵](https://github.com/SOPKATHON-LUCKY-SEVEN/S23H-AOS)|
 |**앱잼**| [RecorDream](https://github.com/TeamRecorDream/RecorDream-AOS)|
+|**솝텀**| [플투](https://github.com/TEAM-PLAYTOGETHER)|
 
 ## 31기~ OB
 ### 📖 WHAT I LEARNED
@@ -62,5 +63,8 @@
 |**솝커톤(33기)**| [마이미라클타임](https://github.com/do-sopkathon-android-2/android-2-client)|
 |**앱잼(33기)**| [Websoso](https://github.com/Team-WSS/WSS-Android-Appjam)|
   
+*솝커톤: 24시간 해커톤
+*앱잼: 4주간 진행되는 장기 해커톤
+*솝텀: 3개월 이상 진행되는 사이드 프로젝트
 
 <hr>
