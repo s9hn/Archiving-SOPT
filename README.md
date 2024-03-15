@@ -59,10 +59,12 @@
 ### 💻 WHAT I DID
 |  <center>Subject</center> |  <center>Repository</center> | 
 |:--------:|:--------:|
+|**안드로이드 심화스터디(31기)**|[98스터디](https://mature-era-6b1.notion.site/44ab24e2757148c5998f4d0ac2a41e29?pvs=4)|
 |**솝커톤(32기)**| [위잉위잉](https://github.com/SOPT32-SOPKATHON/sopkathon-android)|
 |**솝커톤(33기)**| [마이미라클타임](https://github.com/do-sopkathon-android-2/android-2-client)|
 |**앱잼(33기)**| [Websoso](https://github.com/Team-WSS/WSS-Android-Appjam)|
-  
+
+ 
 *솝커톤: 24시간 해커톤  
 *앱잼: 4주간 진행되는 장기 해커톤  
 *솝텀: 3개월 이상 진행되는 사이드 프로젝트  
